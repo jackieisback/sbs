@@ -1,7 +1,7 @@
 import os
 import datetime
 
-snapshot_dir = r"C:\Users\Alex\Pictures"
+snapshot_dir = r"C:\Users\XXX\Pictures"
 path_to_irfanview = r'"C:\Program Files (x86)\IrfanView\i_view32.exe" '
 once = 1
 
